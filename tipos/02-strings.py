@@ -16,8 +16,8 @@ print(nombre_curso, descripcion_curso)
 print(len(nombre_test))
 
 """Se puede obtener el valor de un caracter usando los [] al lado de la variable 
-y dentro de ellos un numero que indica el valor del caracter, es como un array y los elementos del mismo
-son los caracteres. Los cuales empiezan en 0
+y dentro de ellos un numero que indica el valor del caracter, es como un array y los elementos 
+del mismo son los caracteres. Los cuales empiezan en 0
 
 El [:] sirve para extraer partes de un string. Para utilizarlo se debe especificar 
 el numero del caracter desde donde empieza y termina. Del lado izquiero de los : se coloca el numero 
